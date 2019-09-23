@@ -1,0 +1,24 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "chat app using node and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmed-osama/node-chat-app.git"
+  },
+  "keywords": [
+    "node",
+    "socket.io",
+    "javascript"
+  ],
+  "author": "Ahmed Osama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ahmed-osama/node-chat-app/issues"
+  },
+  "homepage": "https://github.com/Ahmed-osama/node-chat-app#readme"
+}
