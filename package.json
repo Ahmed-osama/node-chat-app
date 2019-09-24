@@ -4,7 +4,8 @@
   "description": "chat app using node and socket.io",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/Ahmed-osama/node-chat-app/issues"
   },
-  "homepage": "https://github.com/Ahmed-osama/node-chat-app#readme"
+  "homepage": "https://github.com/Ahmed-osama/node-chat-app#readme",
+  "dependencies": {
+    "mongodb": "^3.3.2",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
 }
