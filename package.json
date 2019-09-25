@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Ahmed-osama/node-chat-app#readme",
   "dependencies": {
-    "mongodb": "^3.3.2",
+    "mongodb": "^2.2.30",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {

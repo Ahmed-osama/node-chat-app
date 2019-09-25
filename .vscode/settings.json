@@ -1,0 +1,6 @@
+{
+  "prettier.singleQuote": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.lintTask.enable": true
+}
